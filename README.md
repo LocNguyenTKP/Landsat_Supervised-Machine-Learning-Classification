@@ -11,9 +11,7 @@ The dataset for this project comprises geo-referenced, labeled images from Lands
 
 <img width="363" alt="image" src="https://github.com/LocNguyenTKP/Landsat_Supervised-Machine-Learning-Classification/assets/66542803/efa00c57-8964-4280-a155-ec0caa28955f">
 
-
-
-<img width="615" alt="image" src="https://github.com/LocNguyenTKP/Landsat_Supervised-Machine-Learning-Classification/assets/66542803/e9e71b40-42f8-4184-920a-59a3d35103f6">
+*<img width="615" alt="image" src="https://github.com/LocNguyenTKP/Landsat_Supervised-Machine-Learning-Classification/assets/66542803/e9e71b40-42f8-4184-920a-59a3d35103f6">
 
 
 ## Dataset =======
