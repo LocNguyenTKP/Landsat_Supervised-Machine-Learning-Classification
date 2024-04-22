@@ -4,6 +4,7 @@
 In this project, we undertake the challenge of land use and land cover classification using Landsat 8 satellite imagery, inspired by the methodologies applied to the USGS dataset in a case study of Can Tho, Vietnam. It demonstrates how to leverage satellite imagery and analysis tools to identify and monitor various land covers in the region. Utilizing Google Earth Engine (GEE), this initiative applies advanced remote sensing techniques and machine learning algorithms to analyze and classify different 4 types of land cover. The purpose is to aid in urban planning, agricultural monitoring, and environmental conservation by providing accurate, up-to-date land cover information.
 * This code and the exported results of these GEE scripts:
 ![image](https://github.com/LocNguyenTKP/Landsat_Supervised-Machine-Learning-Classification/assets/66542803/0baea226-9adf-4f0a-8019-fd6c3c3f5a63)
+![image](https://github.com/LocNguyenTKP/Landsat_Supervised-Machine-Learning-Classification/assets/66542803/e2a8bddb-bfe0-4b34-87aa-1e1e81f39ecc)
 
 
 ## Methods and Dataset
