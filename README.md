@@ -7,6 +7,8 @@ In this project, we undertake the challenge of land use and land cover classific
 
 ## Methods and Dataset
 The dataset for this project comprises geo-referenced, labeled images from Landsat 8, ensuring comprehensive coverage and precise classification. The adaptation of machine learning techniques, particularly the utilization of Random Forest, Support Vector Machine (SVM) and Decision Trees, has allowed us to explore a novel approach in land cover classification with Landsat 8 imagery, achieving an overall classification and Kappa accuracy of over 80% and 70% respectively.
+
+
 <img width="363" alt="image" src="https://github.com/LocNguyenTKP/Landsat_Supervised-Machine-Learning-Classification/assets/66542803/efa00c57-8964-4280-a155-ec0caa28955f">
 
 <img width="615" alt="image" src="https://github.com/LocNguyenTKP/Landsat_Supervised-Machine-Learning-Classification/assets/66542803/e9e71b40-42f8-4184-920a-59a3d35103f6">
