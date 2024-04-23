@@ -2,8 +2,9 @@
 
 ## Short Description
 In this project, we undertake the challenge of land use and land cover classification using Landsat 8 satellite imagery, inspired by the methodologies applied to the USGS dataset in a case study of Can Tho, Vietnam. It demonstrates how to leverage satellite imagery and analysis tools to identify and monitor various land covers in the region. Utilizing Google Earth Engine (GEE), this initiative applies advanced remote sensing techniques and machine learning algorithms to analyze and classify different 4 types of land cover. The purpose is to aid in urban planning, agricultural monitoring, and environmental conservation by providing accurate, up-to-date land cover information.
-* This code and the exported results of these GEE scripts:
-<a href="https://code.earthengine.google.com/?accept_repo=users%2Fdaviddaou%2Ftestdelta&scriptPath=users%2Fnguyenloctkp%2Fgithub%3ARandom
+* 
+<p>This code and the exported results of these GEE scripts can be accessed <a href="https://code.earthengine.google.com/?accept_repo=users%2Fdaviddaou%2Ftestdelta&scriptPath=users%2Fnguyenloctkp%2Fgithub%3ARandom%20Forest%20LULC%20Classification%20" target="_blank">here</a>.</p>
+
 
 ## Methods and Dataset
 The dataset for this project comprises geo-referenced, labeled images from Landsat 8, ensuring comprehensive coverage and precise classification. The adaptation of machine learning techniques, particularly the utilization of Random Forest, Support Vector Machine (SVM) and Decision Trees, has allowed us to explore a novel approach in land cover classification with Landsat 8 imagery, achieving an overall classification and Kappa accuracy of over 80% and 70% respectively.
